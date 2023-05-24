@@ -14,3 +14,9 @@ The game is an expansion on the game Rock, Paper, Scissors. Each player picks a 
 8. Paper disproves Spock  
 9. Spock vaporizes Rock  
 10. (and as it always has) Rock crushes Scissors  
+
+## Trial Responses
+
+<img src = "https://github.com/adarsh-2425/Rock-Paper-Scissors-Lizard-Spock/blob/main/game.png" alt="image">
+
+<img src = "https://github.com/adarsh-2425/Rock-Paper-Scissors-Lizard-Spock/blob/main/game%202.png" alt="image">
