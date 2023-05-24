@@ -19,4 +19,4 @@ The game is an expansion on the game Rock, Paper, Scissors. Each player picks a 
 
 <img src = "https://github.com/adarsh-2425/Rock-Paper-Scissors-Lizard-Spock/blob/main/game.png" alt="image">
 
-<img src = "https://github.com/adarsh-2425/Rock-Paper-Scissors-Lizard-Spock/blob/main/game%202.png" alt="image">
+<img src = "https://github.com/adarsh-2425/Rock-Paper-Scissors-Lizard-Spock/blob/main/game2.png" alt="image">
