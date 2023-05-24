@@ -5,6 +5,7 @@
 #include <ctime>
 #include <cstdlib>
 
+
 int main() {
     
     std::string name;
@@ -43,7 +44,7 @@ int main() {
     std::cout << "Let The Battle Begin!!\n" << std::endl;
     
     //prompting user to enter choice
-    std::cout << name << " enter your choice : ";
+    std::cout << name << ", enter your choice : ";
 
     std::cin >> user;
     
@@ -58,8 +59,8 @@ int main() {
     
     std::cout << name << ": " << choices[user-1] << std::endl;
     
-    //generating computer choice between 1 and 5
-    computer = rand() % 5 + 1;
+    //generating computer choice between 0 and 4
+    computer = rand() % 4;
     
     std::cout << "computer : " << choices[computer] << std::endl;
     
